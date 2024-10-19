@@ -1,0 +1,3 @@
+class NumericalPrecisionError(Exception):
+  pass
+
